@@ -1,0 +1,9 @@
+.container-drawer-dashboard {
+  width: 10px !important;
+}
+.list-dashboard-container {
+  margin-top: 70px !important;
+}
+.top-list-componenet {
+  display: flex;
+}
